@@ -23,9 +23,7 @@ This Apify actor scrapes product data from Babylist’s online store. It support
 | Stat | Value |
 |------|-------|
 | **Version** | `0.1.2` |
-| **Total Runs** | 123 |
-| **Total Users** | 4 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
